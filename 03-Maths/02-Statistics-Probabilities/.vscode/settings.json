@@ -1,0 +1,8 @@
+{
+    "notebook.consolidatedRunButton": true,
+    "notebook.diff.overviewRuler": true,
+    "notebook.output.wordWrap": true,
+    "python.autoComplete.extraPaths": [
+        "/Users/ramzimalhas/.vscode-server/extensions/stefanwehr.write-your-python-program-1.0.6/python/src/"
+    ]
+}

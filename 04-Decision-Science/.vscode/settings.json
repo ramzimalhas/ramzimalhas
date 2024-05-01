@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/Users/ramzimalhas/.vscode/extensions/stefanwehr.write-your-python-program-1.0.6/python/src/"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "explorerExclude.backup": {},
+    "github.copilot.enable": {
+        "markdown": "true"
+    },
+    "notebook.output.scrolling": true,
+    "notebook.output.wordWrap": true,
+    "notebook.consolidatedRunButton": true,
+    "notebook.formatOnSave.enabled": true,
+    "python.analysis.extraPaths": [
+        "/Users/ramzimalhas/.vscode/extensions/stefanwehr.write-your-python-program-1.0.6/python/src/"
+    ]
+}
