@@ -1,0 +1,3 @@
+[submodule "raycast/script-commands/data-science-bootcamp"]
+	path = raycast/script-commands/data-science-bootcamp
+	url = https://github.com/ramzimalhas/data-science-bootcamp.git
