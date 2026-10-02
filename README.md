@@ -1,6 +1,7 @@
 ![Ramzi Malhas — building MAESTRO AI][hero]
 
-<img src="https://avatars.githubusercontent.com/u/115951635?v=4" width="48" height="48" alt="Ramzi Malhas" align="left">
+<img src="https://avatars.githubusercontent.com/u/115951635?v=4"
+  width="48" height="48" alt="Ramzi Malhas" align="left">
 
 **Ramzi Malhas** · Dubai  
 Building **MAESTRO AI** — autonomous intelligence orchestration.
@@ -23,7 +24,7 @@ and Raycast extensions for AI-assisted productivity.
 <details>
 <summary>The 5D loop &amp; working stack</summary>
 
-**Discover → Design → Document → Develop → Distribute**
+Discover → Design → Document → Develop → Distribute
 
 A continuous cycle to augment human intelligence with AI-native workflows.
 
