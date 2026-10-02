@@ -14,7 +14,6 @@
     <text x="60" y="210" font-size="24" fill="#b2b8c8">Autonomous intelligence orchestration.</text>
     <path d="M60 249h54" stroke="url(#edge)" stroke-width="3" stroke-linecap="round"/>
     <text x="60" y="289" font-size="18" fill="#898fa0">Human intelligence. AI-native workflows.</text>
-    <text x="60" y="359" font-size="14" letter-spacing="2" fill="#6e7587">DISCOVER / DESIGN / DOCUMENT / DEVELOP / DISTRIBUTE</text>
   </g>
   <g fill="none" stroke="url(#edge)">
     <path d="M950 76 1073 166 1026 310 874 310 827 166Z" stroke-width="1.5" opacity=".6"/>

@@ -8,6 +8,8 @@ Building **MAESTRO AI** — autonomous intelligence orchestration.
 
 [MAESTRO workspace][maestro] · [Twitter / X][twitter]
 
+Discover → Design → Document → Develop → Distribute
+
 [![TypeScript][typescript-badge]][typescript]
 [![Python][python-badge]][python]
 [![Bun][bun-badge]][bun]
@@ -22,9 +24,7 @@ and Raycast extensions for AI-assisted productivity.
 *Updated 2 October 2026.*
 
 <details>
-<summary>The 5D loop &amp; working stack</summary>
-
-Discover → Design → Document → Develop → Distribute
+<summary>Working stack &amp; approach</summary>
 
 A continuous cycle to augment human intelligence with AI-native workflows.
 
