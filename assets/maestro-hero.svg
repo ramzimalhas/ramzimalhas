@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ramzi Malhas — building MAESTRO AI</title>
+  <desc id="desc">Autonomous intelligence orchestration. Discover, Design, Document, Develop, Distribute. A decorative five-stage cycle, not a progress metric.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8b5cf6" stop-opacity=".16"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="#101217"/>
+  <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#282b34"/>
+  <ellipse cx="950" cy="205" rx="250" ry="230" fill="url(#glow)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="60" y="76" font-size="17" letter-spacing="4" fill="#a4a9b8">RAMZI MALHAS</text>
+    <text x="56" y="160" font-size="67" font-weight="700" letter-spacing="-2" fill="#f1f2f6">Building MAESTRO.</text>
+    <text x="60" y="210" font-size="24" fill="#b2b8c8">Autonomous intelligence orchestration.</text>
+    <path d="M60 249h54" stroke="url(#edge)" stroke-width="3" stroke-linecap="round"/>
+    <text x="60" y="289" font-size="18" fill="#898fa0">Human intelligence. AI-native workflows.</text>
+    <text x="60" y="359" font-size="14" letter-spacing="2" fill="#6e7587">DISCOVER / DESIGN / DOCUMENT / DEVELOP / DISTRIBUTE</text>
+  </g>
+  <g fill="none" stroke="url(#edge)">
+    <path d="M950 76 1073 166 1026 310 874 310 827 166Z" stroke-width="1.5" opacity=".6"/>
+    <circle cx="950" cy="206" r="78" stroke-width="1" opacity=".25"/>
+    <path d="m950 76v130m123-40-123 40m76 104-76-104m-76 104 76-104m-123-40 123 40" opacity=".2"/>
+  </g>
+  <g fill="#141720" stroke="url(#edge)" stroke-width="2">
+    <circle cx="950" cy="76" r="8"/><circle cx="1073" cy="166" r="8"/>
+    <circle cx="1026" cy="310" r="8"/><circle cx="874" cy="310" r="8"/><circle cx="827" cy="166" r="8"/>
+  </g>
+  <text x="950" y="218" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="39" font-weight="600" fill="#d9d3f4">5D</text>
+</svg>
