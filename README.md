@@ -2,15 +2,16 @@
 
 Based in Dubai.
 
-I'm building MAESTRO: one setup that keeps my AI coding agents (Claude Code,
-Codex, Cursor and others) working from the same rules, tools and project
-history.
+I'm building MAESTRO AI, an autonomous intelligence orchestration project that
+works in five stages: discover, design, document, develop and distribute.
 
-Most of that work is in private repositories, so there isn't much public code
-to show here yet.
+Right now I'm working on MAESTRO's five-stage architecture, Claude Code plugins
+and agent tooling, and Raycast extensions for AI-assisted productivity. Next, I
+want to connect the five stages through a simpler developer experience.
+
+Most of this work is in private repositories.
 
 - Project page: [trymaestro.app](https://trymaestro.app)
 - X: [@ramzimalhas](https://x.com/ramzimalhas)
 
-Tools I use most: TypeScript, Python, Bun, Cloudflare Workers, mise, chezmoi
-and the 1Password CLI.
+Stack: TypeScript, Python, Bun, Cloudflare Workers and the 1Password CLI.
